@@ -4,33 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd34af72-a659-445b-8c19-008a0b7c9ea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/generation_of_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ coordinate_quarters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ roskomnadzor_has_banned_the_letter_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Line_cost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/body_mass_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/developmental_shift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heads_and_tails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/josephus's_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/more_than_previous.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number_reversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/product_of_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/standard_american_convention.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vice_versa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zodiac.py" afterDir="false" />
+    <list default="true" id="fd34af72-a659-445b-8c19-008a0b7c9ea6" name="Changes" comment="add prj">
+      <change afterPath="$PROJECT_DIR$/src/ swapping_columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/above_average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chanked.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrix_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrix_trace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maximum_in_the_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/morze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symmetric_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Магический квадрат.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Самое редкое слово.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ходы коня.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Шахматная доска.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/возвести в степень матрицу.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/перемножение матриц.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/сложение матриц.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,19 +51,35 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python. coordinate_quarters.executor&quot;: &quot;Run&quot;,
+    &quot;Python. swapping_columns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Above_average.executor&quot;: &quot;Run&quot;,
     &quot;Python.Line_cost.executor&quot;: &quot;Run&quot;,
     &quot;Python.body_mass_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chanked.executor&quot;: &quot;Run&quot;,
     &quot;Python.developmental_shift.executor&quot;: &quot;Run&quot;,
     &quot;Python.easy.executor&quot;: &quot;Run&quot;,
     &quot;Python.heads_and_tails.executor&quot;: &quot;Run&quot;,
     &quot;Python.josephus's_problem.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix_trace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maximum_in_the_table.executor&quot;: &quot;Run&quot;,
     &quot;Python.more_than_previous.executor&quot;: &quot;Run&quot;,
+    &quot;Python.morze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplication_table.executor&quot;: &quot;Run&quot;,
     &quot;Python.number_reversal.executor&quot;: &quot;Run&quot;,
     &quot;Python.product_of_numbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.standard_american_convention.executor&quot;: &quot;Run&quot;,
+    &quot;Python.symmetric_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.vice_versa.executor&quot;: &quot;Run&quot;,
     &quot;Python.zodiac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Магический квадрат.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ходы коня.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Шахматная доска.executor&quot;: &quot;Run&quot;,
+    &quot;Python.перемножение матриц.executor&quot;: &quot;Run&quot;,
+    &quot;Python.сложение матриц.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
@@ -105,6 +125,27 @@
       <option name="presentableId" value="Default" />
       <updated>1760009645997</updated>
     </task>
+    <task id="LOCAL-00001" summary="add prj">
+      <option name="closed" value="true" />
+      <created>1760342005960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760342005960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add prj">
+      <option name="closed" value="true" />
+      <created>1760342093552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760342093552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add prj" />
+    <option name="LAST_COMMIT_MESSAGE" value="add prj" />
   </component>
 </project>
